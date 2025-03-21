@@ -102,8 +102,8 @@ Update the contract address, ABI, RPC endpoint, and wallet address as needed for
 ![Logo](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/custom-contract-address.gif)
 ## Authors
 
-- [@DracoArts](https://github.com/orgs/DracoArts)
-
+- [@MirHamzaHasan](https://github.com/MirHamzaHasan)
+- [@WebSite](https://mirhamzahasan.com)
  -
 
 
