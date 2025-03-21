@@ -104,7 +104,7 @@ Update the contract address, ABI, RPC endpoint, and wallet address as needed for
 
 - [@DracoArts](https://github.com/orgs/DracoArts)
 
- - [@AzharWaheed](https://github.com/AzharKhemta)
+ -
 
 
 ## Demo
