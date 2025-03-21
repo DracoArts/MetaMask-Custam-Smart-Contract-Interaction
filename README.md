@@ -99,7 +99,7 @@ Update the contract address, ABI, RPC endpoint, and wallet address as needed for
 
 
 ## Image
-![Logo](https://dracoarts-logo.s3.eu-north-1.amazonaws.com/ContractAddress-min.png)
+![Logo](https://raw.githubusercontent.com/AzharKhemta/DemoClient/refs/heads/main/custom-contract-address.gif)
 ## Authors
 
 - [@DracoArts](https://github.com/orgs/DracoArts)
